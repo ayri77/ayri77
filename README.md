@@ -1,44 +1,28 @@
-### 👋 Hi, I’m @ayri77 (Pavlo Borysov)
+# Pavlo Borysov
 
-- 🌍 Living in Hamburg, 🇩🇪, originally from 🇺🇦
-- 👨‍💻 Former Head of Development and BI, now focused on AI & Machine Learning
-- 🎯 Currently building educational materials, prototypes, and real-world ML pipelines
-- 🛠️ Working with: Python, PyTorch, TensorFlow, Scikit-learn, Power BI, SQL, Docker
+Data Engineer / Machine Learning Engineer with strong experience in analytics, BI, and production data workflows.  
+Focused on building scalable data pipelines, robust data models, and deploying ML solutions that drive measurable business outcomes.
 
----
+## Core Expertise
+- Data Engineering: SQL, dbt, BigQuery, ETL pipelines, data modeling (Data Vault / dimensional)
+- Machine Learning: Python, scikit-learn, PyTorch, model evaluation, experimentation
+- Analytics & BI: Power BI (DAX), forecasting, KPI systems, commercial analytics
+- Data Warehousing & Architecture: scalable data structures, versioning, testing, CI/CD principles
 
-### 🌱 I’m currently learning
+## Selected Projects
+- **CIFAR10-Torch-Classifier** – Modular deep learning training framework with augmentation strategies and architecture experiments
+- **deutschbot** – LLM-based assistant with fine-tuning experiments and dataset generation workflows
+- **correction_polygon_app** – Geodata processing with ML-driven coordinate correction
+- **Advanced BI Reporting** – KPI modeling, DAX optimization, financial analytics dashboards
 
-- Advanced ML pipelines (Optuna, cross-validation, feature engineering)
-- Neural networks from scratch (CNNs, RNNs, Transformers)
-- Deployment: Colab, GitHub Actions, Render, Docker, Streamlit
+## Professional Focus
+- End-to-end ML lifecycle: EDA → modeling → validation → deployment
+- Scalable data infrastructure for analytics and experimentation
+- Translating mathematical models into production-ready systems
 
----
+## Location
+Hamburg, Germany  
+Authorized to work in the EU
 
-### 🔭 I’m looking to collaborate on
-
-- Educational AI projects
-- Computer vision tools (OCR, classification, segmentation)
-- NLP tasks (chatbots, retrieval systems)
-- Teaching & mentoring for AI newcomers
-
----
-
-### 📫 How to reach me
-
-- Email: `pborisov77@gmail.com`
-- Telegram: `@Ayri77`
-- GitHub: [github.com/ayri77](https://github.com/ayri77)
-
----
-
-### 😄 Fun fact
-
-- I coach my 13-year-old son in AI and Shogi tournaments 🎓♟️
-- My favorite debugging phrase is: " Warum funktioniert es?_ 😅"
-
-
-<!---
-ayri77/ayri77 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+## Contact
+LinkedIn: https://www.linkedin.com/in/pavlo-borysov-ml
