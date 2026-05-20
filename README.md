@@ -163,8 +163,8 @@ Robust bi-directional sync (calendar + contacts) between ERPNext and Microsoft 3
 ## 📊 GitHub
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=ayri77&show_icons=true&include_all_commits=true&count_private=false&theme=default&hide_border=true" alt="GitHub stats" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ayri77&layout=compact&theme=default&hide_border=true&hide=html,css" alt="Top languages" />
+  <img src="https://img.shields.io/github/followers/ayri77?label=Followers&style=for-the-badge&logo=github&color=0a66c2" alt="Followers" />
+  <img src="https://img.shields.io/github/stars/ayri77?label=Stars&style=for-the-badge&logo=github&color=f2c811" alt="Total stars" />
 </p>
 
 <p align="center"><i>Open to opportunities in AI/ML Engineering, Data Engineering and Senior IC / Tech-Lead roles in Germany & EU.</i></p>
