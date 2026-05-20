@@ -102,7 +102,7 @@ Aktuell **MSc Informatik (Schwerpunkt KI)** an der Woolf / Neoversity.
 End-to-end ML pipeline for customer-satisfaction prediction. **AutoGluon: 96.245 % test accuracy (Rank #1)**, CatBoost: 95.95 % (Rank #2) with near-perfect generalisation (−0.001 % gap). Feature engineering 24 → 93, ensembling, threshold calibration, modular Python package + pytest tests + reproducible pipeline notebooks.
 `Python` · `AutoGluon` · `CatBoost` · `LightGBM` · `XGBoost` · `Stratified CV`
 
-### 🙂 [Facial Emotion Recognition](https://github.com/ayri77/facial-emotion-recognition) — Real-time CV, **MIT Capstone**
+### 🙂 [Facial Emotion Recognition](https://github.com/ayri77/FacialEmotionRecognition) — Real-time CV, **MIT Capstone**
 Real-time emotion recognition via webcam. **HPO-optimised CNN (12.4 M params, 79.69 % accuracy)** for 4 classes (Happy / Neutral / Sad / Surprise). Streamlit web app, Docker setup, demo scripts, full structure (`web_app/`, `models/`, `notebooks/`, `docs/`, `tests/`). Ready for Streamlit Cloud / Hugging Face Spaces.
 `PyTorch` · `CNN` · `HPO` · `Streamlit` · `Docker` · `OpenCV`
 
@@ -111,7 +111,7 @@ ML service for correcting polygon coordinates (SC63 → WGS84). Compared Linear 
 `scikit-learn` · `FastAPI` · `Shapely` · `Folium` · `Render`
 🔗 <https://correction-polygon-app.onrender.com/docs>
 
-### 🤖 [Assistant Bot](https://github.com/ayri77/python-assistant-bot) — Production-grade Python
+### 🤖 [Assistant Bot](https://github.com/ayri77/assistant-bot-final-project) — Production-grade Python *(team project)*
 Console-based contact manager built with **MVCS architecture + Dependency Injection**. Interactive REPL + CLI mode, Rich UI, automatic persistence, full pytest coverage. Demonstrates clean software engineering, not just notebooks.
 `Python 3.10+` · `Typer` · `Rich` · `Dependency Injector` · `pytest` · `Click-REPL`
 
