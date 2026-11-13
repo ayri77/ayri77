@@ -2,9 +2,11 @@
 
 ML & Integration Engineer in Hamburg. Enterprise integration, data platforms and applied AI.
 
+[Deutsche Version](https://github.com/ayri77/ayri77/blob/main/README.de.md)
+
 I build integrations, data pipelines and LLM-assisted applications, mostly in Python. In my current role at IT Services K. Rozankovic (since 09/2025) this means ERPNext/Frappe applications, an ERPNext–Microsoft 365 integration over Microsoft Graph, n8n workflows and Dynamics 365 / Power Platform automation. From 2011 to 2024 I headed software development departments at UkrLandFarming, StarLightMedia and Astarta: a distributed ERP landscape of 200+ database instances, a Microsoft Synapse and Power BI platform used daily by 100+ employees, six teams with 30+ specialists. In LLM applications I keep to one rule: the model proposes, deterministic code validates, a person approves.
 
-I have worked in enterprise IT for more than 25 years. I am currently completing an MSc in Computer Science (Woolf / GoIT Neoversity) and finished the MIT Professional Education Applied Data Science Program in 2025.
+I have worked in enterprise IT for more than 25 years. I am currently studying for an MSc in Computer Science (Woolf / GoIT Neoversity) and finished the MIT Professional Education Applied Data Science Program in 2025.
 
 ## Selected projects
 
